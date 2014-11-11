@@ -1,0 +1,23 @@
+
+git reset --hard HEAD~5
+---------------
+del .git/rebase-apply„‘ ⁄«—›Â »Ì⁄„· «ÌÂ —»‰« Ì” —  
+-----------------
+ 	git rebase -i 
+Lets you rewrite the upstream history of a branch, choosing which commits to keep, squash, or ditch.
+----------------------
+ 	git reset ñhard
+git reset ñsoft 	Discards local modifications
+Returns to another commit, but doesnít touch working 
+-----------------------
+To revert uncommitted changes issue this two commands:
+
+git reset --hard
+
+And
+
+git clean -fd
+
+The first one will revert existing files but modified since last commit, and the last one will remove all files added since last commit.
+
+You are now working when you were at your last commit.
