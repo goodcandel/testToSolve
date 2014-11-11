@@ -23,3 +23,4 @@ The first one will revert existing files but modified since last commit, and the
 You are now working when you were at your last commit.
 
 ALLAH kebeeer 
+LA Ilah ella ALLah
